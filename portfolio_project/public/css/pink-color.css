@@ -1,0 +1,91 @@
+header .social-links .social-link:hover {
+  color: #ce9fa5;
+}
+
+header .logo:before {
+  background-color: #ce9fa5;
+}
+
+header .menu-button:before {
+  background-color: #ce9fa5;
+}
+
+.main-btn,
+.submition-btn {
+  color: #ce9fa5;
+  border-color: #ce9fa5;
+}
+
+.main-btn:hover,
+.submition-btn:hover {
+  background-color: #ce9fa5;
+  border-color: #ce9fa5;
+}
+
+blockquote {
+  border-color: #ce9fa5;
+}
+
+.sub-heading h3:before {
+  background: #ce9fa5;
+}
+
+.preloader .loading-text span:before {
+  color: #ce9fa5;
+}
+
+.section-about .about-info p strong {
+  color: #ce9fa5;
+}
+
+.section-about .about-info .about-list li .title:before {
+  background-color: #ce9fa5;
+}
+
+.section-contact .contact-detail .contact-info li .title:before {
+  background-color: #ce9fa5;
+}
+
+.section-contact .contact-detail .social-media h4:before {
+  background-color: #ce9fa5;
+}
+
+.page.section-home .banner-text .animate-title {
+  color: #CE9FA5;
+}
+
+.section-portfolio .portfolio-filter ul li.active {
+  background-color: #AF9396;
+}
+
+.section-portfolio .portfolio-items .item figure {
+  background: #000000;
+}
+
+.section-resume .experience,
+.section-resume .education {
+  border-color: #ce9fa5;
+}
+
+.section-resume .experience h5,
+.section-resume .education h5 {
+  color: #ce9fa5;
+}
+
+.section-resume .experience .event:after,
+.section-resume .education .event:after {
+  -webkit-box-shadow: 0 0 0 4px #ce9fa5;
+  box-shadow: 0 0 0 4px #ce9fa5;
+}
+
+header .back-button:before {
+  background-color: #ce9fa5;
+}
+
+.single-blog .blog-category li {
+  border-color: #ce9fa5;
+}
+
+.single-blog .blog-category li a {
+  color: #ce9fa5;
+}

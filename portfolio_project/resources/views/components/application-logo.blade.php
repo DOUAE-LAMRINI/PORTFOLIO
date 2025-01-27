@@ -1,0 +1,1 @@
+<img src="{{ asset('favicon.ico') }}" alt="Pink heart icon" width="50">
